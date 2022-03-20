@@ -14,6 +14,9 @@
 # Whitelist some files
 !.gitignore
 
+#Blacklist all pngs inside some views folder
+*/views/*.png
+*/*/*/views/*.png
 #Whitelist all bin files from experiments
 #!/longdress/experiments/3DD_2_noQuantize_OM=4/compressed/3DD_2_noQuantize_OM=4.bin
 #!/longdress/experiments/2DD_lodX=2_lodY=1_OM=4/compressed/2DD_lodX=2_lodY=1_OM=4.bin
