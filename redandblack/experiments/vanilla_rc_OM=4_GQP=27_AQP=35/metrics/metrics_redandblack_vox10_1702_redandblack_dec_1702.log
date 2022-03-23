@@ -1,0 +1,25 @@
+PCC-Arena Evaluator 0.6.5
+Reference Point Cloud: /temp/pranav/dynamic_pc_data/redandblack/Ply/redandblack_vox10_1702.ply
+Target Point Cloud: /temp/pranav/dynamic_pc_data/redandblack/experiments/vanilla_rc_OM=4_GQP=27_AQP=35/decompressed/redandblack_dec_1702.ply
+
+========== Time & Binary Size ==========
+Encoding time (s)           : -1
+Decoding time (s)           : -1
+Source point cloud size (kB): 16103.864
+Total binary files size (kB): 7079.533
+Compression ratio           : 0.43961703849461226
+bpp (bits per point)        : 75.77974256736867
+
+========== Point-based Metrics =========
+Asym. Chamfer dist. (1->2) p2pt: 0.516562
+Asym. Chamfer dist. (2->1) p2pt: 0.516387
+Chamfer dist.              p2pt: 0.516474
+CD-PSNR (dB)               p2pt: 62.6889
+Hausdorff distance         p2pt: 77
+
+
+----------------------------------------
+Y-CPSNR (dB)                   : 35.2718
+U-CPSNR (dB)                   : 40.581
+V-CPSNR (dB)                   : 34.6557
+
