@@ -1,0 +1,25 @@
+PCC-Arena Evaluator 0.6.5
+Reference Point Cloud: /temp/pranav/dynamic_pc_data/loot/Ply/loot_vox10_1025.ply
+Target Point Cloud: /temp/pranav/dynamic_pc_data/loot/experiments/vanilla_rc_OM=4_GQP=30_AQP=41/decompressed/loot_dec_1025.ply
+
+========== Time & Binary Size ==========
+Encoding time (s)           : -1
+Decoding time (s)           : -1
+Source point cloud size (kB): 16932.512
+Total binary files size (kB): 3266.036
+Compression ratio           : 0.19288549743830097
+bpp (bits per point)        : 33.525141012415254
+
+========== Point-based Metrics =========
+Asym. Chamfer dist. (1->2) p2pt: 0.575922
+Asym. Chamfer dist. (2->1) p2pt: 0.532341
+Chamfer dist.              p2pt: 0.554132
+CD-PSNR (dB)               p2pt: 62.7692
+Hausdorff distance         p2pt: 50
+
+
+----------------------------------------
+Y-CPSNR (dB)                   : 32.3891
+U-CPSNR (dB)                   : 44.7899
+V-CPSNR (dB)                   : 44.0234
+
