@@ -1,0 +1,25 @@
+PCC-Arena Evaluator 0.6.5
+Reference Point Cloud: /temp/pranav/dynamic_pc_data/soldier/Ply/soldier_vox10_0726.ply
+Target Point Cloud: /temp/pranav/dynamic_pc_data/soldier/experiments/3DD_4_noQuantize_OM=4_r1/decompressed/soldier_dec_0726.ply
+
+========== Time & Binary Size ==========
+Encoding time (s)           : -1
+Decoding time (s)           : -1
+Source point cloud size (kB): 24222.369
+Total binary files size (kB): 5063.599
+Compression ratio           : 0.2090463983931547
+bpp (bits per point)        : 37.12717467614716
+
+========== Point-based Metrics =========
+Asym. Chamfer dist. (1->2) p2pt: 1.03329
+Asym. Chamfer dist. (2->1) p2pt: 0.771867
+Chamfer dist.              p2pt: 0.902578
+CD-PSNR (dB)               p2pt: 60.4924
+Hausdorff distance         p2pt: 97
+
+
+----------------------------------------
+Y-CPSNR (dB)                   : 28.7889
+U-CPSNR (dB)                   : 43.1283
+V-CPSNR (dB)                   : 43.3552
+
