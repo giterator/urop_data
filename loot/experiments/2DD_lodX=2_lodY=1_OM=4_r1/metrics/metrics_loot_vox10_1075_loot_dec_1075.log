@@ -6,20 +6,20 @@ Target Point Cloud: /temp/pranav/dynamic_pc_data/loot/experiments/2DD_lodX=2_lod
 Encoding time (s)           : -1
 Decoding time (s)           : -1
 Source point cloud size (kB): 16621.361
-Total binary files size (kB): 2502.36
-Compression ratio           : 0.15055084839322122
-bpp (bits per point)        : 25.52839204214333
+Total binary files size (kB): 2452.366
+Compression ratio           : 0.14754303212594924
+bpp (bits per point)        : 25.01836693314426
 
 ========== Point-based Metrics =========
-Asym. Chamfer dist. (1->2) p2pt: 1.09709
-Asym. Chamfer dist. (2->1) p2pt: 0.880152
-Chamfer dist.              p2pt: 0.988621
-CD-PSNR (dB)               p2pt: 60.136
-Hausdorff distance         p2pt: 174
+Asym. Chamfer dist. (1->2) p2pt: 1.11583
+Asym. Chamfer dist. (2->1) p2pt: 0.872903
+Chamfer dist.              p2pt: 0.994369
+CD-PSNR (dB)               p2pt: 60.1109
+Hausdorff distance         p2pt: 90
 
 
 ----------------------------------------
-Y-CPSNR (dB)                   : 31.9677
-U-CPSNR (dB)                   : 43.6576
-V-CPSNR (dB)                   : 43.2824
+Y-CPSNR (dB)                   : 31.949
+U-CPSNR (dB)                   : 43.429
+V-CPSNR (dB)                   : 42.666
 

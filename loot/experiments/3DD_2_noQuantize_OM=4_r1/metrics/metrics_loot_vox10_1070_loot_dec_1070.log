@@ -6,20 +6,20 @@ Target Point Cloud: /temp/pranav/dynamic_pc_data/loot/experiments/3DD_2_noQuanti
 Encoding time (s)           : -1
 Decoding time (s)           : -1
 Source point cloud size (kB): 16679.754
-Total binary files size (kB): 2729.103
-Compression ratio           : 0.16361770083659508
-bpp (bits per point)        : 27.745959691593285
+Total binary files size (kB): 2739.629
+Compression ratio           : 0.16424876529953616
+bpp (bits per point)        : 27.852974330364233
 
 ========== Point-based Metrics =========
-Asym. Chamfer dist. (1->2) p2pt: 0.865505
-Asym. Chamfer dist. (2->1) p2pt: 0.659069
-Chamfer dist.              p2pt: 0.762287
-CD-PSNR (dB)               p2pt: 61.4569
-Hausdorff distance         p2pt: 84
+Asym. Chamfer dist. (1->2) p2pt: 0.865988
+Asym. Chamfer dist. (2->1) p2pt: 0.647956
+Chamfer dist.              p2pt: 0.756972
+CD-PSNR (dB)               p2pt: 61.4873
+Hausdorff distance         p2pt: 77
 
 
 ----------------------------------------
-Y-CPSNR (dB)                   : 32.9319
-U-CPSNR (dB)                   : 44.1525
-V-CPSNR (dB)                   : 43.7563
+Y-CPSNR (dB)                   : 32.8632
+U-CPSNR (dB)                   : 43.9795
+V-CPSNR (dB)                   : 44.0568
 

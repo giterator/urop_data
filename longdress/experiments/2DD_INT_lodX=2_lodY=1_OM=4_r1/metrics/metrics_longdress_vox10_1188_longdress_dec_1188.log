@@ -6,20 +6,20 @@ Target Point Cloud: /temp/pranav/dynamic_pc_data/longdress/experiments/2DD_INT_l
 Encoding time (s)           : -1
 Decoding time (s)           : -1
 Source point cloud size (kB): 19528.915
-Total binary files size (kB): 4858.411
-Compression ratio           : 0.24878038539263445
-bpp (bits per point)        : 45.25967380950718
+Total binary files size (kB): 4759.045
+Compression ratio           : 0.24369223789442473
+bpp (bits per point)        : 44.3340063952527
 
 ========== Point-based Metrics =========
-Asym. Chamfer dist. (1->2) p2pt: 0.883068
-Asym. Chamfer dist. (2->1) p2pt: 1.12573
-Chamfer dist.              p2pt: 1.0044
-CD-PSNR (dB)               p2pt: 59.9964
-Hausdorff distance         p2pt: 98
+Asym. Chamfer dist. (1->2) p2pt: 0.904628
+Asym. Chamfer dist. (2->1) p2pt: 1.11562
+Chamfer dist.              p2pt: 1.01012
+CD-PSNR (dB)               p2pt: 59.9717
+Hausdorff distance         p2pt: 148
 
 
 ----------------------------------------
-Y-CPSNR (dB)                   : 25.8448
-U-CPSNR (dB)                   : 32.0348
-V-CPSNR (dB)                   : 31.4317
+Y-CPSNR (dB)                   : 25.8296
+U-CPSNR (dB)                   : 32.0172
+V-CPSNR (dB)                   : 31.3871
 

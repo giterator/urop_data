@@ -6,20 +6,20 @@ Target Point Cloud: /temp/pranav/dynamic_pc_data/longdress/experiments/vanilla_r
 Encoding time (s)           : -1
 Decoding time (s)           : -1
 Source point cloud size (kB): 20139.443
-Total binary files size (kB): 3545.264
-Compression ratio           : 0.17603585163700905
-bpp (bits per point)        : 32.03306976161084
+Total binary files size (kB): 3543.821
+Compression ratio           : 0.1759642011946408
+bpp (bits per point)        : 32.020031601500335
 
 ========== Point-based Metrics =========
-Asym. Chamfer dist. (1->2) p2pt: 1.23824
-Asym. Chamfer dist. (2->1) p2pt: 1.10808
-Chamfer dist.              p2pt: 1.17316
-CD-PSNR (dB)               p2pt: 59.4466
-Hausdorff distance         p2pt: 157
+Asym. Chamfer dist. (1->2) p2pt: 1.292
+Asym. Chamfer dist. (2->1) p2pt: 1.11556
+Chamfer dist.              p2pt: 1.20378
+CD-PSNR (dB)               p2pt: 59.3347
+Hausdorff distance         p2pt: 114
 
 
 ----------------------------------------
-Y-CPSNR (dB)                   : 25.5677
-U-CPSNR (dB)                   : 31.6382
-V-CPSNR (dB)                   : 31.0748
+Y-CPSNR (dB)                   : 25.6022
+U-CPSNR (dB)                   : 31.5766
+V-CPSNR (dB)                   : 31.0484
 

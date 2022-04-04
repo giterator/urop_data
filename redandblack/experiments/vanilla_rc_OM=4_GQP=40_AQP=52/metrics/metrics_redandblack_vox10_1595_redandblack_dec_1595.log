@@ -6,20 +6,20 @@ Target Point Cloud: /temp/pranav/dynamic_pc_data/redandblack/experiments/vanilla
 Encoding time (s)           : -1
 Decoding time (s)           : -1
 Source point cloud size (kB): 15284.678
-Total binary files size (kB): 2266.891
-Compression ratio           : 0.14831133505069588
-bpp (bits per point)        : 25.608944921740406
+Total binary files size (kB): 2247.0
+Compression ratio           : 0.14700996645137046
+bpp (bits per point)        : 25.384237371426636
 
 ========== Point-based Metrics =========
-Asym. Chamfer dist. (1->2) p2pt: 2.27146
-Asym. Chamfer dist. (2->1) p2pt: 2.14012
-Chamfer dist.              p2pt: 2.20579
-CD-PSNR (dB)               p2pt: 56.3365
-Hausdorff distance         p2pt: 398
+Asym. Chamfer dist. (1->2) p2pt: 2.2273
+Asym. Chamfer dist. (2->1) p2pt: 2.07407
+Chamfer dist.              p2pt: 2.15068
+CD-PSNR (dB)               p2pt: 56.4464
+Hausdorff distance         p2pt: 347
 
 
 ----------------------------------------
-Y-CPSNR (dB)                   : 28.9131
-U-CPSNR (dB)                   : 36.487
-V-CPSNR (dB)                   : 27.7729
+Y-CPSNR (dB)                   : 28.9445
+U-CPSNR (dB)                   : 36.6151
+V-CPSNR (dB)                   : 27.8488
 

@@ -1,0 +1,25 @@
+PCC-Arena Evaluator 0.6.5
+Reference Point Cloud: /temp/pranav/dynamic_pc_data/longdress/Ply/longdress_vox10_1205.ply
+Target Point Cloud: /temp/pranav/dynamic_pc_data/longdress/experiments/3DD_2_noQuantize_OM=4_r1/decompressed/longdress_dec_1205.ply
+
+========== Time & Binary Size ==========
+Encoding time (s)           : -1
+Decoding time (s)           : -1
+Source point cloud size (kB): 18394.814
+Total binary files size (kB): 5481.205
+Compression ratio           : 0.2979755598507275
+bpp (bits per point)        : 54.267610200661856
+
+========== Point-based Metrics =========
+Asym. Chamfer dist. (1->2) p2pt: 0.843659
+Asym. Chamfer dist. (2->1) p2pt: 0.668555
+Chamfer dist.              p2pt: 0.756107
+CD-PSNR (dB)               p2pt: 61.1337
+Hausdorff distance         p2pt: 77
+
+
+----------------------------------------
+Y-CPSNR (dB)                   : 26.5212
+U-CPSNR (dB)                   : 32.694
+V-CPSNR (dB)                   : 32.1567
+

@@ -6,20 +6,20 @@ Target Point Cloud: /temp/pranav/dynamic_pc_data/loot/experiments/vanilla_rc_OM=
 Encoding time (s)           : -1
 Decoding time (s)           : -1
 Source point cloud size (kB): 17579.818
-Total binary files size (kB): 1708.646
-Compression ratio           : 0.09719361144694445
-bpp (bits per point)        : 16.936403465297463
+Total binary files size (kB): 1711.095
+Compression ratio           : 0.09733291891872829
+bpp (bits per point)        : 16.9606783894693
 
 ========== Point-based Metrics =========
-Asym. Chamfer dist. (1->2) p2pt: 1.99856
-Asym. Chamfer dist. (2->1) p2pt: 1.80605
-Chamfer dist.              p2pt: 1.9023
-CD-PSNR (dB)               p2pt: 57.2382
-Hausdorff distance         p2pt: 170
+Asym. Chamfer dist. (1->2) p2pt: 2.00323
+Asym. Chamfer dist. (2->1) p2pt: 1.84156
+Chamfer dist.              p2pt: 1.9224
+CD-PSNR (dB)               p2pt: 57.1925
+Hausdorff distance         p2pt: 545
 
 
 ----------------------------------------
-Y-CPSNR (dB)                   : 29.4714
-U-CPSNR (dB)                   : 39.4377
-V-CPSNR (dB)                   : 39.2761
+Y-CPSNR (dB)                   : 29.5428
+U-CPSNR (dB)                   : 39.9316
+V-CPSNR (dB)                   : 38.9147
 
